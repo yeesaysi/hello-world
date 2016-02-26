@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository
+# Python Basics
+This is my first python repository.
